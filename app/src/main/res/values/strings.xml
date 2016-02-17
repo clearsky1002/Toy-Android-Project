@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PointWiseToy</string>
+    <string name="action_animation">Start Animation</string>
+    <string name="action_settings">Settings</string>
+</resources>
